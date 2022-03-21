@@ -26,7 +26,6 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -52,6 +51,5 @@
   },
   "devDependencies": {
     "jest": "^27.5.1"
-  },
-  "homepage": "https://carlosmaciascusiter.github.io/wordle_javascript-master/"
+  }
 }
