@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/CarlosMaciasCusiter/wordle_javascript-master/static/js/main.4e02717e.js",
-    "index.html": "/CarlosMaciasCusiter/wordle_javascript-master/index.html",
-    "main.4e02717e.js.map": "/CarlosMaciasCusiter/wordle_javascript-master/static/js/main.4e02717e.js.map"
+    "main.js": "/wordle_javascript-master/static/js/main.4e02717e.js",
+    "index.html": "/wordle_javascript-master/index.html",
+    "main.4e02717e.js.map": "/wordle_javascript-master/static/js/main.4e02717e.js.map"
   },
   "entrypoints": [
     "static/js/main.4e02717e.js"
